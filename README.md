@@ -14,10 +14,10 @@ This workshop focuses on designing an RF receiver for a 2.4GHz narrowband applic
 - **Antenna Designer App (Antenna Toolbox)** 
 - **RFPCB Toolbox**
 - **Communications Toolbox**
-- 
+  
 ### IEEE® 802.15.4 System Specifications:
 - **Data Rate:** 250kbps
-- **Modulation:** OQPSK with half sine pulse shaping
+- **Modulation:** OQPSK with half-sine pulse shaping
 - **Spread Spectrum:** Direct sequence with chip rate = 2Mchips/s
 - **Sensitivity Specification:** -100dBm
 - **Bit Error Rate (BER) Specification:** 1e-4
@@ -42,11 +42,11 @@ This workshop focuses on designing an RF receiver for a 2.4GHz narrowband applic
 - **Task:** Design a Wilkinson combiner and integrate it together with the dual-polarized antenna into the system-level model.
 
 ### Exercise 4:
-- **Objective:** Design a 90-degree phase shifter and implement it on a PCB together with the Wilkinson combiner.
+- **Objective:** Design a 90-degree phase shifter and implement it on a PCB with the Wilkinson combiner.
 - **Task:** Analyze the PCB structure using electromagnetic analysis.
 
 ## Conclusion
 
-This workshop provides a comprehensive approach to RF receiver and antenna design, focusing on practical integration and performance verification. By the end of the workshop, participants will have hands-on experience with system-level modeling, EM analysis, and PCB implementation.
+This workshop provides a comprehensive RF receiver and antenna design approach, focusing on practical integration and performance verification. By the end of the workshop, participants will have hands-on experience with system-level modeling, EM analysis, and PCB implementation.
 
 
