@@ -1,4 +1,4 @@
-# RF_Workshop_NGC_June_24
+# RF_Workshop_NGC
  MathWorks RF Workshop
 # Workshop: Top-Down Design of an RF Receiver and Antenna Front-End Integration
 
