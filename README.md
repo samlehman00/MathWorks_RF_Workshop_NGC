@@ -1,10 +1,8 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=SekharRajendran/MathWorks_RF_Workshop_NGC_June_24)
-
 # RF_Workshop_NGC_June_24
  MathWorks RF Workshop
 # Workshop: Top-Down Design of an RF Receiver and Antenna Front-End Integration
 
-This workshop focuses on designing an RF receiver for a 2.4GHz narrowband application using a top-down methodology. The process includes verifying the error rate performance after adding impairments such as interfering signals and integrating the antenna front-end.
+This workshop uses a top-down methodology to design an RF receiver for a 2.4GHz narrowband application. The process includes verifying the error rate performance after adding impairments such as interfering signals and integrating the antenna front-end.
 
 ## Overview
 
